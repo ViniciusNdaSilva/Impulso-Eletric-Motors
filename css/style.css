@@ -5139,4 +5139,23 @@ p#err {
     top: -10%;
   }
 }
+
+.cor-cta-1 {
+  margin-top: 77px;
+}
+
+.cor-cta-1 span {
+  color: #06ba9d;
+  font-size: 20px;
+}
+
+.titulo-cta-1 {
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.container-4-cards {
+  margin-top: 77px;
+}
 /*---------------responsive end---------------*/
