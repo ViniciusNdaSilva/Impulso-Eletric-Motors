@@ -5158,4 +5158,21 @@ p#err {
 .container-4-cards {
   margin-top: 77px;
 }
+.part-1-sobrenos {
+  margin-top: 50px;
+}
+
+.align-itens {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .align-itens {
+    flex-direction: column;
+  }
+}
+
 /*---------------responsive end---------------*/
