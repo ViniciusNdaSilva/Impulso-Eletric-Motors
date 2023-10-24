@@ -3714,7 +3714,7 @@ a.garden_btn:hover {
   transform: scale(1);
 }
 .garden_contact {
-  background-image: url(/HTML/eco-wocommerce/images/background-banner.png);
+  background-image: url(/images/background-banner.png);
   background-size: cover;
   background-attachment: fixed;
   position: relative;
